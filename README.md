@@ -1,4 +1,4 @@
-# Progetto Computer Graphics 2024 - The Aviator
+# Progetto Computer Graphics 2024 - Flappy Plane
 
 ![Static Badge](https://img.shields.io/badge/status-completed-brightgreen)
 ![Static Badge](https://img.shields.io/badge/WebGL-3D-blue)
